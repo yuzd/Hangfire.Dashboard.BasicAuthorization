@@ -3,7 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+    <Authors>yuzd</Authors>
+    <Description>enable basic authorization for hangfire(api or dashbord..)</Description>
+    <PackageProjectUrl>https://github.com/yuzd/Hangfire.Dashboard.BasicAuthorization</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
